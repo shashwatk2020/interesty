@@ -27,6 +27,96 @@ import LaLigaTicketsPage from './pages/LaLigaTicketsPage';
 import Euro2028TicketsPage from './pages/Euro2028TicketsPage';
 import MLSTicketsPage from './pages/MLSTicketsPage';
 import SaudiProLeagueTicketsPage from './pages/SaudiProLeagueTicketsPage';
+import WorldCupFinalTicketsPage from './pages/WorldCupFinalTicketsPage';
+import WorldCupSemiFinalTicketsPage from './pages/WorldCupSemiFinalTicketsPage';
+import WorldCupQuarterFinalTicketsPage from './pages/WorldCupQuarterFinalTicketsPage';
+import WorldCupRoundOf16TicketsPage from './pages/WorldCupRoundOf16TicketsPage';
+import WorldCupGroupStageTicketsPage from './pages/WorldCupGroupStageTicketsPage';
+import ChampionsLeagueFinalTicketsPage from './pages/ChampionsLeagueFinalTicketsPage';
+import EuropaLeagueFinalTicketsPage from './pages/EuropaLeagueFinalTicketsPage';
+import FACupFinalTicketsPage from './pages/FACupFinalTicketsPage';
+import CopaDelReyFinalTicketsPage from './pages/CopaDelReyFinalTicketsPage';
+import ArgentinaTicketsPage from './pages/ArgentinaTicketsPage';
+import FranceTicketsPage from './pages/FranceTicketsPage';
+import BrazilTicketsPage from './pages/BrazilTicketsPage';
+import EnglandTicketsPage from './pages/EnglandTicketsPage';
+import SpainTicketsPage from './pages/SpainTicketsPage';
+import GermanyTicketsPage from './pages/GermanyTicketsPage';
+import PortugalTicketsPage from './pages/PortugalTicketsPage';
+import NetherlandsTicketsPage from './pages/NetherlandsTicketsPage';
+import ItalyTicketsPage from './pages/ItalyTicketsPage';
+import CroatiaTicketsPage from './pages/CroatiaTicketsPage';
+import MoroccoTicketsPage from './pages/MoroccoTicketsPage';
+import JapanTicketsPage from './pages/JapanTicketsPage';
+import MexicoTicketsPage from './pages/MexicoTicketsPage';
+import USATicketsPage from './pages/USATicketsPage';
+import CanadaTicketsPage from './pages/CanadaTicketsPage';
+import BelgiumTicketsPage from './pages/BelgiumTicketsPage';
+import ManchesterUnitedTicketsPage from './pages/ManchesterUnitedTicketsPage';
+import LiverpoolTicketsPage from './pages/LiverpoolTicketsPage';
+import ChelseaTicketsPage from './pages/ChelseaTicketsPage';
+import ArsenalTicketsPage from './pages/ArsenalTicketsPage';
+import TottenhamTicketsPage from './pages/TottenhamTicketsPage';
+import NewcastleUnitedTicketsPage from './pages/NewcastleUnitedTicketsPage';
+import WestHamTicketsPage from './pages/WestHamTicketsPage';
+import AstonVillaTicketsPage from './pages/AstonVillaTicketsPage';
+import BrightonTicketsPage from './pages/BrightonTicketsPage';
+import CrystalPalaceTicketsPage from './pages/CrystalPalaceTicketsPage';
+import EvertonTicketsPage from './pages/EvertonTicketsPage';
+import FulhamTicketsPage from './pages/FulhamTicketsPage';
+import BrentfordTicketsPage from './pages/BrentfordTicketsPage';
+import RealMadridTicketsPage from './pages/RealMadridTicketsPage';
+import BarcelonaTicketsPage from './pages/BarcelonaTicketsPage';
+import BayernMunichTicketsPage from './pages/BayernMunichTicketsPage';
+import PSGTicketsPage from './pages/PSGTicketsPage';
+import ACMilanTicketsPage from './pages/ACMilanTicketsPage';
+import InterMilanTicketsPage from './pages/InterMilanTicketsPage';
+import JuventusTicketsPage from './pages/JuventusTicketsPage';
+import AtleticoMadridTicketsPage from './pages/AtleticoMadridTicketsPage';
+import BorussiaDortmundTicketsPage from './pages/BorussiaDortmundTicketsPage';
+import NapoliTicketsPage from './pages/NapoliTicketsPage';
+import PortoTicketsPage from './pages/PortoTicketsPage';
+import BenficaTicketsPage from './pages/BenficaTicketsPage';
+import ASRomaTicketsPage from './pages/ASRomaTicketsPage';
+import SevillaTicketsPage from './pages/SevillaTicketsPage';
+import EintrachtFrankfurtTicketsPage from './pages/EintrachtFrankfurtTicketsPage';
+import OlympiakosTicketsPage from './pages/OlympiakosTicketsPage';
+import AjaxTicketsPage from './pages/AjaxTicketsPage';
+import FeyenoordTicketsPage from './pages/FeyenoordTicketsPage';
+import RangersTicketsPage from './pages/RangersTicketsPage';
+import RealSociedadTicketsPage from './pages/RealSociedadTicketsPage';
+import AtalantaTicketsPage from './pages/AtalantaTicketsPage';
+import VillarrealTicketsPage from './pages/VillarrealTicketsPage';
+import BayerLeverkusenTicketsPage from './pages/BayerLeverkusenTicketsPage';
+import UnionBerlinTicketsPage from './pages/UnionBerlinTicketsPage';
+import SportingCPTicketsPage from './pages/SportingCPTicketsPage';
+import MarseilleTicketsPage from './pages/MarseilleTicketsPage';
+import ValenciaTicketsPage from './pages/ValenciaTicketsPage';
+import RealBetisTicketsPage from './pages/RealBetisTicketsPage';
+import OsasunaTicketsPage from './pages/OsasunaTicketsPage';
+import GironaTicketsPage from './pages/GironaTicketsPage';
+import LasPalmasTicketsPage from './pages/LasPalmasTicketsPage';
+import CeltaVigoTicketsPage from './pages/CeltaVigoTicketsPage';
+import RayoVallecanoTicketsPage from './pages/RayoVallecanoTicketsPage';
+import GetafeTicketsPage from './pages/GetafeTicketsPage';
+import AlavesTicketsPage from './pages/AlavesTicketsPage';
+import BundesligaTicketsPage from './pages/BundesligaTicketsPage';
+import SerieATicketsPage from './pages/SerieATicketsPage';
+import Ligue1TicketsPage from './pages/Ligue1TicketsPage';
+import NationsLeagueTicketsPage from './pages/NationsLeagueTicketsPage';
+import CopaAmericaTicketsPage from './pages/CopaAmericaTicketsPage';
+import FACupTicketsPage from './pages/FACupTicketsPage';
+import CopaDelReyTicketsPage from './pages/CopaDelReyTicketsPage';
+import DFBPokalTicketsPage from './pages/DFBPokalTicketsPage';
+import CoppaItaliaTicketsPage from './pages/CoppaItaliaTicketsPage';
+import CoupeDeFranceTicketsPage from './pages/CoupeDeFranceTicketsPage';
+import WorldCupQualifiersTicketsPage from './pages/WorldCupQualifiersTicketsPage';
+import EuroQualifiersTicketsPage from './pages/EuroQualifiersTicketsPage';
+import InternationalFriendliesTicketsPage from './pages/InternationalFriendliesTicketsPage';
+import ConferenceLeagueTicketsPage from './pages/ConferenceLeagueTicketsPage';
+import SuperCupTicketsPage from './pages/SuperCupTicketsPage';
+import ClubWorldCupTicketsPage from './pages/ClubWorldCupTicketsPage';
+import WomensChampionsLeagueTicketsPage from './pages/WomensChampionsLeagueTicketsPage';
 
 // Protected Route Component
 const ProtectedRoute: React.FC<{ children: React.ReactNode }> = ({ children }) => {
@@ -117,6 +207,96 @@ function App() {
                     <Route path="/euro-2028-tickets" element={<Euro2028TicketsPage />} />
                     <Route path="/mls-tickets" element={<MLSTicketsPage />} />
                     <Route path="/saudi-pro-league-tickets" element={<SaudiProLeagueTicketsPage />} />
+                    <Route path="/world-cup-final-tickets" element={<WorldCupFinalTicketsPage />} />
+                    <Route path="/world-cup-semi-final-tickets" element={<WorldCupSemiFinalTicketsPage />} />
+                    <Route path="/world-cup-quarter-final-tickets" element={<WorldCupQuarterFinalTicketsPage />} />
+                    <Route path="/world-cup-round-of-16-tickets" element={<WorldCupRoundOf16TicketsPage />} />
+                    <Route path="/world-cup-group-stage-tickets" element={<WorldCupGroupStageTicketsPage />} />
+                    <Route path="/champions-league-final-tickets" element={<ChampionsLeagueFinalTicketsPage />} />
+                    <Route path="/europa-league-final-tickets" element={<EuropaLeagueFinalTicketsPage />} />
+                    <Route path="/fa-cup-final-tickets" element={<FACupFinalTicketsPage />} />
+                    <Route path="/copa-del-rey-final-tickets" element={<CopaDelReyFinalTicketsPage />} />
+                    <Route path="/argentina-tickets" element={<ArgentinaTicketsPage />} />
+                    <Route path="/france-tickets" element={<FranceTicketsPage />} />
+                    <Route path="/brazil-tickets" element={<BrazilTicketsPage />} />
+                    <Route path="/england-tickets" element={<EnglandTicketsPage />} />
+                    <Route path="/spain-tickets" element={<SpainTicketsPage />} />
+                    <Route path="/germany-tickets" element={<GermanyTicketsPage />} />
+                    <Route path="/portugal-tickets" element={<PortugalTicketsPage />} />
+                    <Route path="/netherlands-tickets" element={<NetherlandsTicketsPage />} />
+                    <Route path="/italy-tickets" element={<ItalyTicketsPage />} />
+                    <Route path="/croatia-tickets" element={<CroatiaTicketsPage />} />
+                    <Route path="/morocco-tickets" element={<MoroccoTicketsPage />} />
+                    <Route path="/japan-tickets" element={<JapanTicketsPage />} />
+                    <Route path="/mexico-tickets" element={<MexicoTicketsPage />} />
+                    <Route path="/usa-tickets" element={<USATicketsPage />} />
+                    <Route path="/canada-tickets" element={<CanadaTicketsPage />} />
+                    <Route path="/belgium-tickets" element={<BelgiumTicketsPage />} />
+                    <Route path="/manchester-united-tickets" element={<ManchesterUnitedTicketsPage />} />
+                    <Route path="/liverpool-tickets" element={<LiverpoolTicketsPage />} />
+                    <Route path="/chelsea-tickets" element={<ChelseaTicketsPage />} />
+                    <Route path="/arsenal-tickets" element={<ArsenalTicketsPage />} />
+                    <Route path="/tottenham-tickets" element={<TottenhamTicketsPage />} />
+                    <Route path="/newcastle-united-tickets" element={<NewcastleUnitedTicketsPage />} />
+                    <Route path="/west-ham-tickets" element={<WestHamTicketsPage />} />
+                    <Route path="/aston-villa-tickets" element={<AstonVillaTicketsPage />} />
+                    <Route path="/brighton-tickets" element={<BrightonTicketsPage />} />
+                    <Route path="/crystal-palace-tickets" element={<CrystalPalaceTicketsPage />} />
+                    <Route path="/everton-tickets" element={<EvertonTicketsPage />} />
+                    <Route path="/fulham-tickets" element={<FulhamTicketsPage />} />
+                    <Route path="/brentford-tickets" element={<BrentfordTicketsPage />} />
+                    <Route path="/real-madrid-tickets" element={<RealMadridTicketsPage />} />
+                    <Route path="/barcelona-tickets" element={<BarcelonaTicketsPage />} />
+                    <Route path="/bayern-munich-tickets" element={<BayernMunichTicketsPage />} />
+                    <Route path="/psg-tickets" element={<PSGTicketsPage />} />
+                    <Route path="/ac-milan-tickets" element={<ACMilanTicketsPage />} />
+                    <Route path="/inter-milan-tickets" element={<InterMilanTicketsPage />} />
+                    <Route path="/juventus-tickets" element={<JuventusTicketsPage />} />
+                    <Route path="/atletico-madrid-tickets" element={<AtleticoMadridTicketsPage />} />
+                    <Route path="/borussia-dortmund-tickets" element={<BorussiaDortmundTicketsPage />} />
+                    <Route path="/napoli-tickets" element={<NapoliTicketsPage />} />
+                    <Route path="/porto-tickets" element={<PortoTicketsPage />} />
+                    <Route path="/benfica-tickets" element={<BenficaTicketsPage />} />
+                    <Route path="/as-roma-tickets" element={<ASRomaTicketsPage />} />
+                    <Route path="/sevilla-tickets" element={<SevillaTicketsPage />} />
+                    <Route path="/eintracht-frankfurt-tickets" element={<EintrachtFrankfurtTicketsPage />} />
+                    <Route path="/olympiakos-tickets" element={<OlympiakosTicketsPage />} />
+                    <Route path="/ajax-tickets" element={<AjaxTicketsPage />} />
+                    <Route path="/feyenoord-tickets" element={<FeyenoordTicketsPage />} />
+                    <Route path="/rangers-tickets" element={<RangersTicketsPage />} />
+                    <Route path="/real-sociedad-tickets" element={<RealSociedadTicketsPage />} />
+                    <Route path="/atalanta-tickets" element={<AtalantaTicketsPage />} />
+                    <Route path="/villarreal-tickets" element={<VillarrealTicketsPage />} />
+                    <Route path="/bayer-leverkusen-tickets" element={<BayerLeverkusenTicketsPage />} />
+                    <Route path="/union-berlin-tickets" element={<UnionBerlinTicketsPage />} />
+                    <Route path="/sporting-cp-tickets" element={<SportingCPTicketsPage />} />
+                    <Route path="/marseille-tickets" element={<MarseilleTicketsPage />} />
+                    <Route path="/valencia-tickets" element={<ValenciaTicketsPage />} />
+                    <Route path="/real-betis-tickets" element={<RealBetisTicketsPage />} />
+                    <Route path="/osasuna-tickets" element={<OsasunaTicketsPage />} />
+                    <Route path="/girona-tickets" element={<GironaTicketsPage />} />
+                    <Route path="/las-palmas-tickets" element={<LasPalmasTicketsPage />} />
+                    <Route path="/celta-vigo-tickets" element={<CeltaVigoTicketsPage />} />
+                    <Route path="/rayo-vallecano-tickets" element={<RayoVallecanoTicketsPage />} />
+                    <Route path="/getafe-tickets" element={<GetafeTicketsPage />} />
+                    <Route path="/alaves-tickets" element={<AlavesTicketsPage />} />
+                    <Route path="/bundesliga-tickets" element={<BundesligaTicketsPage />} />
+                    <Route path="/serie-a-tickets" element={<SerieATicketsPage />} />
+                    <Route path="/ligue-1-tickets" element={<Ligue1TicketsPage />} />
+                    <Route path="/nations-league-tickets" element={<NationsLeagueTicketsPage />} />
+                    <Route path="/copa-america-tickets" element={<CopaAmericaTicketsPage />} />
+                    <Route path="/fa-cup-tickets" element={<FACupTicketsPage />} />
+                    <Route path="/copa-del-rey-tickets" element={<CopaDelReyTicketsPage />} />
+                    <Route path="/dfb-pokal-tickets" element={<DFBPokalTicketsPage />} />
+                    <Route path="/coppa-italia-tickets" element={<CoppaItaliaTicketsPage />} />
+                    <Route path="/coupe-de-france-tickets" element={<CoupeDeFranceTicketsPage />} />
+                    <Route path="/world-cup-qualifiers-tickets" element={<WorldCupQualifiersTicketsPage />} />
+                    <Route path="/euro-qualifiers-tickets" element={<EuroQualifiersTicketsPage />} />
+                    <Route path="/international-friendlies-tickets" element={<InternationalFriendliesTicketsPage />} />
+                    <Route path="/conference-league-tickets" element={<ConferenceLeagueTicketsPage />} />
+                    <Route path="/super-cup-tickets" element={<SuperCupTicketsPage />} />
+                    <Route path="/club-world-cup-tickets" element={<ClubWorldCupTicketsPage />} />
+                    <Route path="/womens-champions-league-tickets" element={<WomensChampionsLeagueTicketsPage />} />
                     
                     <Route path="/competition/:slug" element={<CompetitionPage />} />
                     <Route path="/team/:slug" element={<TeamPage />} />
