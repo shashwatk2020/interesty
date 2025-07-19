@@ -117,6 +117,67 @@ import ConferenceLeagueTicketsPage from './pages/ConferenceLeagueTicketsPage';
 import SuperCupTicketsPage from './pages/SuperCupTicketsPage';
 import ClubWorldCupTicketsPage from './pages/ClubWorldCupTicketsPage';
 import WomensChampionsLeagueTicketsPage from './pages/WomensChampionsLeagueTicketsPage';
+import ArgentinaVsBrazilTicketsPage from './pages/ArgentinaVsBrazilTicketsPage';
+import FranceVsEnglandTicketsPage from './pages/FranceVsEnglandTicketsPage';
+import SpainVsGermanyTicketsPage from './pages/SpainVsGermanyTicketsPage';
+import WorldCupOpeningCeremonyTicketsPage from './pages/WorldCupOpeningCeremonyTicketsPage';
+import WorldCupClosingCeremonyTicketsPage from './pages/WorldCupClosingCeremonyTicketsPage';
+import WorldCupPackageDealTicketsPage from './pages/WorldCupPackageDealTicketsPage';
+import WorldCupVIPExperienceTicketsPage from './pages/WorldCupVIPExperienceTicketsPage';
+import WorldCupHospitalityTicketsPage from './pages/WorldCupHospitalityTicketsPage';
+import WorldCupPremiumTicketsPage from './pages/WorldCupPremiumTicketsPage';
+import ManchesterUnitedVsLiverpoolTicketsPage from './pages/ManchesterUnitedVsLiverpoolTicketsPage';
+import ArsenalVsChelseaTicketsPage from './pages/ArsenalVsChelseaTicketsPage';
+import ManchesterCityVsLiverpoolTicketsPage from './pages/ManchesterCityVsLiverpoolTicketsPage';
+import ArsenalVsTottenhamTicketsPage from './pages/ArsenalVsTottenhamTicketsPage';
+import ManchesterUnitedVsManchesterCityTicketsPage from './pages/ManchesterUnitedVsManchesterCityTicketsPage';
+import ChelseaVsArsenalTicketsPage from './pages/ChelseaVsArsenalTicketsPage';
+import LiverpoolVsChelseaTicketsPage from './pages/LiverpoolVsChelseaTicketsPage';
+import TottenhamVsChelseaTicketsPage from './pages/TottenhamVsChelseaTicketsPage';
+import PremierLeagueSeasonOpenerTicketsPage from './pages/PremierLeagueSeasonOpenerTicketsPage';
+import PremierLeagueFinalDayTicketsPage from './pages/PremierLeagueFinalDayTicketsPage';
+import PremierLeagueChristmasFixtureTicketsPage from './pages/PremierLeagueChristmasFixtureTicketsPage';
+import PremierLeagueBoxingDayTicketsPage from './pages/PremierLeagueBoxingDayTicketsPage';
+import PremierLeagueNewYearFixtureTicketsPage from './pages/PremierLeagueNewYearFixtureTicketsPage';
+import ChampionsLeagueRoundOf16TicketsPage from './pages/ChampionsLeagueRoundOf16TicketsPage';
+import ChampionsLeagueQuarterFinalTicketsPage from './pages/ChampionsLeagueQuarterFinalTicketsPage';
+import ChampionsLeagueSemiFinalTicketsPage from './pages/ChampionsLeagueSemiFinalTicketsPage';
+import ChampionsLeagueGroupStageTicketsPage from './pages/ChampionsLeagueGroupStageTicketsPage';
+import RealMadridVsBarcelonaTicketsPage from './pages/RealMadridVsBarcelonaTicketsPage';
+import BayernMunichVsPSGTicketsPage from './pages/BayernMunichVsPSGTicketsPage';
+import ManchesterCityVsRealMadridTicketsPage from './pages/ManchesterCityVsRealMadridTicketsPage';
+import ChampionsLeagueFinalVIPTicketsPage from './pages/ChampionsLeagueFinalVIPTicketsPage';
+import ChampionsLeagueFinalHospitalityTicketsPage from './pages/ChampionsLeagueFinalHospitalityTicketsPage';
+import ChampionsLeagueFinalPremiumTicketsPage from './pages/ChampionsLeagueFinalPremiumTicketsPage';
+import ChampionsLeagueFinalCorporateTicketsPage from './pages/ChampionsLeagueFinalCorporateTicketsPage';
+import EuropaLeagueGroupStageTicketsPage from './pages/EuropaLeagueGroupStageTicketsPage';
+import EuropaLeagueRoundOf16TicketsPage from './pages/EuropaLeagueRoundOf16TicketsPage';
+import EuropaLeagueQuarterFinalTicketsPage from './pages/EuropaLeagueQuarterFinalTicketsPage';
+import EuropaLeagueSemiFinalTicketsPage from './pages/EuropaLeagueSemiFinalTicketsPage';
+import ASRomaVsSevillaTicketsPage from './pages/ASRomaVsSevillaTicketsPage';
+import WestHamVsAjaxTicketsPage from './pages/WestHamVsAjaxTicketsPage';
+import EintrachtFrankfurtVsRangersTicketsPage from './pages/EintrachtFrankfurtVsRangersTicketsPage';
+import EuropaLeagueFinalVIPTicketsPage from './pages/EuropaLeagueFinalVIPTicketsPage';
+import EuropaLeagueFinalHospitalityTicketsPage from './pages/EuropaLeagueFinalHospitalityTicketsPage';
+import EuropaLeagueFinalPremiumTicketsPage from './pages/EuropaLeagueFinalPremiumTicketsPage';
+import RealMadridVsAtleticoMadridTicketsPage from './pages/RealMadridVsAtleticoMadridTicketsPage';
+import BarcelonaVsAtleticoMadridTicketsPage from './pages/BarcelonaVsAtleticoMadridTicketsPage';
+import SevillaVsRealBetisTicketsPage from './pages/SevillaVsRealBetisTicketsPage';
+import AthleticBilbaoVsRealSociedadTicketsPage from './pages/AthleticBilbaoVsRealSociedadTicketsPage';
+import ValenciaVsVillarrealTicketsPage from './pages/ValenciaVsVillarrealTicketsPage';
+import LaLigaSeasonOpenerTicketsPage from './pages/LaLigaSeasonOpenerTicketsPage';
+import LaLigaFinalDayTicketsPage from './pages/LaLigaFinalDayTicketsPage';
+import LaLigaChristmasFixtureTicketsPage from './pages/LaLigaChristmasFixtureTicketsPage';
+import LaLigaNewYearFixtureTicketsPage from './pages/LaLigaNewYearFixtureTicketsPage';
+import CampNouTicketsPage from './pages/CampNouTicketsPage';
+import SantiagoBernabeuTicketsPage from './pages/SantiagoBernabeuTicketsPage';
+import OldTraffordTicketsPage from './pages/OldTraffordTicketsPage';
+import AnfieldTicketsPage from './pages/AnfieldTicketsPage';
+import WembleyStadiumTicketsPage from './pages/WembleyStadiumTicketsPage';
+import AllianzArenaTicketsPage from './pages/AllianzArenaTicketsPage';
+import SanSiroTicketsPage from './pages/SanSiroTicketsPage';
+import MetLifeStadiumTicketsPage from './pages/MetLifeStadiumTicketsPage';
+
 
 // Protected Route Component
 const ProtectedRoute: React.FC<{ children: React.ReactNode }> = ({ children }) => {
@@ -297,7 +358,128 @@ function App() {
                     <Route path="/super-cup-tickets" element={<SuperCupTicketsPage />} />
                     <Route path="/club-world-cup-tickets" element={<ClubWorldCupTicketsPage />} />
                     <Route path="/womens-champions-league-tickets" element={<WomensChampionsLeagueTicketsPage />} />
+                    <Route path="/argentina-vs-brazil-tickets" element={<ArgentinaVsBrazilTicketsPage />} />
+                    <Route path="/france-vs-england-tickets" element={<FranceVsEnglandTicketsPage />} />
+                    <Route path="/spain-vs-germany-tickets" element={<SpainVsGermanyTicketsPage />} />
+                    <Route path="/world-cup-opening-ceremony-tickets" element={<WorldCupOpeningCeremonyTicketsPage />} />
+                    <Route path="/world-cup-closing-ceremony-tickets" element={<WorldCupClosingCeremonyTicketsPage />} />
+                    <Route path="/world-cup-package-deal-tickets" element={<WorldCupPackageDealTicketsPage />} />
+                    <Route path="/world-cup-vip-experience-tickets" element={<WorldCupVIPExperienceTicketsPage />} />
+                    <Route path="/world-cup-hospitality-tickets" element={<WorldCupHospitalityTicketsPage />} />
+                    <Route path="/world-cup-premium-tickets" element={<WorldCupPremiumTicketsPage />} />
+                    <Route path="/manchester-united-vs-liverpool-tickets" element={<ManchesterUnitedVsLiverpoolTicketsPage />} />
+                    <Route path="/arsenal-vs-chelsea-tickets" element={<ArsenalVsChelseaTicketsPage />} />
+                    <Route path="/manchester-city-vs-liverpool-tickets" element={<ManchesterCityVsLiverpoolTicketsPage />} />
+                    <Route path="/arsenal-vs-tottenham-tickets" element={<ArsenalVsTottenhamTicketsPage />} />
+                    <Route path="/manchester-united-vs-manchester-city-tickets" element={<ManchesterUnitedVsManchesterCityTicketsPage />} />
+                    <Route path="/chelsea-vs-arsenal-tickets" element={<ChelseaVsArsenalTicketsPage />} />
+                    <Route path="/liverpool-vs-chelsea-tickets" element={<LiverpoolVsChelseaTicketsPage />} />
+                    <Route path="/tottenham-vs-chelsea-tickets" element={<TottenhamVsChelseaTicketsPage />} />
+                    <Route path="/premier-league-season-opener-tickets" element={<PremierLeagueSeasonOpenerTicketsPage />} />
+                    <Route path="/premier-league-final-day-tickets" element={<PremierLeagueFinalDayTicketsPage />} />
+                    <Route path="/premier-league-christmas-fixture-tickets" element={<PremierLeagueChristmasFixtureTicketsPage />} />
+                    <Route path="/premier-league-boxing-day-tickets" element={<PremierLeagueBoxingDayTicketsPage />} />
+                    <Route path="/premier-league-new-year-fixture-tickets" element={<PremierLeagueNewYearFixtureTicketsPage />} />
+                    <Route path="/champions-league-round-16-tickets" element={<ChampionsLeagueRoundOf16TicketsPage />} />
+                    <Route path="/champions-league-quarter-final-tickets" element={<ChampionsLeagueQuarterFinalTicketsPage />} />
+                    <Route path="/champions-league-semi-final-tickets" element={<ChampionsLeagueSemiFinalTicketsPage />} />
+                    <Route path="/champions-league-group-stage-tickets" element={<ChampionsLeagueGroupStageTicketsPage />} />
+                    <Route path="/real-madrid-vs-barcelona-tickets" element={<RealMadridVsBarcelonaTicketsPage />} />
+                    <Route path="/bayern-munich-vs-psg-tickets" element={<BayernMunichVsPSGTicketsPage />} />
+                    <Route path="/manchester-city-vs-real-madrid-tickets" element={<ManchesterCityVsRealMadridTicketsPage />} />
+                    <Route path="/champions-league-final-vip-tickets" element={<ChampionsLeagueFinalVIPTicketsPage />} />
+                    <Route path="/champions-league-final-hospitality-tickets" element={<ChampionsLeagueFinalHospitalityTicketsPage />} />
+                    <Route path="/champions-league-final-premium-tickets" element={<ChampionsLeagueFinalPremiumTicketsPage />} />
+                    <Route path="/champions-league-final-corporate-tickets" element={<ChampionsLeagueFinalCorporateTicketsPage />} />
+                    <Route path="/europa-league-group-stage-tickets" element={<EuropaLeagueGroupStageTicketsPage />} />
+                    <Route path="/europa-league-round-16-tickets" element={<EuropaLeagueRoundOf16TicketsPage />} />
+                    <Route path="/europa-league-quarter-final-tickets" element={<EuropaLeagueQuarterFinalTicketsPage />} />
+                    <Route path="/europa-league-semi-final-tickets" element={<EuropaLeagueSemiFinalTicketsPage />} />
+                    <Route path="/as-roma-vs-sevilla-tickets" element={<ASRomaVsSevillaTicketsPage />} />
+                    <Route path="/west-ham-vs-ajax-tickets" element={<WestHamVsAjaxTicketsPage />} />
+                    <Route path="/eintracht-frankfurt-vs-rangers-tickets" element={<EintrachtFrankfurtVsRangersTicketsPage />} />
+                    <Route path="/europa-league-final-vip-tickets" element={<EuropaLeagueFinalVIPTicketsPage />} />
+                    <Route path="/europa-league-final-hospitality-tickets" element={<EuropaLeagueFinalHospitalityTicketsPage />} />
+                    <Route path="/europa-league-final-premium-tickets" element={<EuropaLeagueFinalPremiumTicketsPage />} />
+                    <Route path="/real-madrid-vs-atletico-madrid-tickets" element={<RealMadridVsAtleticoMadridTicketsPage />} />
+                    <Route path="/barcelona-vs-atletico-madrid-tickets" element={<BarcelonaVsAtleticoMadridTicketsPage />} />
+                    <Route path="/sevilla-vs-real-betis-tickets" element={<SevillaVsRealBetisTicketsPage />} />
+                    <Route path="/athletic-bilbao-vs-real-sociedad-tickets" element={<AthleticBilbaoVsRealSociedadTicketsPage />} />
+                    <Route path="/valencia-vs-villarreal-tickets" element={<ValenciaVsVillarrealTicketsPage />} />
+                    <Route path="/la-liga-season-opener-tickets" element={<LaLigaSeasonOpenerTicketsPage />} />
+                    <Route path="/la-liga-final-day-tickets" element={<LaLigaFinalDayTicketsPage />} />
+                    <Route path="/la-liga-christmas-fixture-tickets" element={<LaLigaChristmasFixtureTicketsPage />} />
+                    <Route path="/la-liga-new-year-fixture-tickets" element={<LaLigaNewYearFixtureTicketsPage />} />
+                    <Route path="/real-madrid-vs-atletico-madrid-tickets" element={<RealMadridVsAtleticoMadridTicketsPage />} />
+                    <Route path="/barcelona-vs-atletico-madrid-tickets" element={<BarcelonaVsAtleticoMadridTicketsPage />} />
+                    <Route path="/sevilla-vs-real-betis-tickets" element={<SevillaVsRealBetisTicketsPage />} />
+                    <Route path="/athletic-bilbao-vs-real-sociedad-tickets" element={<AthleticBilbaoVsRealSociedadTicketsPage />} />
+                    <Route path="/valencia-vs-villarreal-tickets" element={<ValenciaVsVillarrealTicketsPage />} />
+                    <Route path="/la-liga-season-opener-tickets" element={<LaLigaSeasonOpenerTicketsPage />} />
+                    <Route path="/la-liga-final-day-tickets" element={<LaLigaFinalDayTicketsPage />} />
+                    <Route path="/la-liga-christmas-fixture-tickets" element={<LaLigaChristmasFixtureTicketsPage />} />
+                    <Route path="/la-liga-new-year-fixture-tickets" element={<LaLigaNewYearFixtureTicketsPage />} />
                     
+                    <Route path="/argentina-vs-brazil-tickets" element={<ArgentinaVsBrazilTicketsPage />} />
+                    <Route path="/france-vs-england-tickets" element={<FranceVsEnglandTicketsPage />} />
+                    <Route path="/spain-vs-germany-tickets" element={<SpainVsGermanyTicketsPage />} />
+                    <Route path="/world-cup-opening-ceremony-tickets" element={<WorldCupOpeningCeremonyTicketsPage />} />
+                    <Route path="/world-cup-closing-ceremony-tickets" element={<WorldCupClosingCeremonyTicketsPage />} />
+                    <Route path="/world-cup-package-deal-tickets" element={<WorldCupPackageDealTicketsPage />} />
+                    <Route path="/world-cup-vip-experience-tickets" element={<WorldCupVIPExperienceTicketsPage />} />
+                    <Route path="/world-cup-hospitality-tickets" element={<WorldCupHospitalityTicketsPage />} />
+                    <Route path="/world-cup-premium-tickets" element={<WorldCupPremiumTicketsPage />} />
+                    <Route path="/manchester-united-vs-liverpool-tickets" element={<ManchesterUnitedVsLiverpoolTicketsPage />} />
+                    <Route path="/arsenal-vs-chelsea-tickets" element={<ArsenalVsChelseaTicketsPage />} />
+                    <Route path="/manchester-city-vs-liverpool-tickets" element={<ManchesterCityVsLiverpoolTicketsPage />} />
+                    <Route path="/arsenal-vs-tottenham-tickets" element={<ArsenalVsTottenhamTicketsPage />} />
+                    <Route path="/manchester-united-vs-manchester-city-tickets" element={<ManchesterUnitedVsManchesterCityTicketsPage />} />
+                    <Route path="/chelsea-vs-arsenal-tickets" element={<ChelseaVsArsenalTicketsPage />} />
+                    <Route path="/liverpool-vs-chelsea-tickets" element={<LiverpoolVsChelseaTicketsPage />} />
+                    <Route path="/tottenham-vs-chelsea-tickets" element={<TottenhamVsChelseaTicketsPage />} />
+                    <Route path="/premier-league-season-opener-tickets" element={<PremierLeagueSeasonOpenerTicketsPage />} />
+                    <Route path="/premier-league-final-day-tickets" element={<PremierLeagueFinalDayTicketsPage />} />
+                    <Route path="/premier-league-christmas-fixture-tickets" element={<PremierLeagueChristmasFixtureTicketsPage />} />
+                    <Route path="/premier-league-boxing-day-tickets" element={<PremierLeagueBoxingDayTicketsPage />} />
+                    <Route path="/premier-league-new-year-fixture-tickets" element={<PremierLeagueNewYearFixtureTicketsPage />} />
+                    <Route path="/champions-league-round-16-tickets" element={<ChampionsLeagueRoundOf16TicketsPage />} />
+                    <Route path="/champions-league-quarter-final-tickets" element={<ChampionsLeagueQuarterFinalTicketsPage />} />
+                    <Route path="/champions-league-semi-final-tickets" element={<ChampionsLeagueSemiFinalTicketsPage />} />
+                    <Route path="/champions-league-group-stage-tickets" element={<ChampionsLeagueGroupStageTicketsPage />} />
+                    <Route path="/real-madrid-vs-barcelona-tickets" element={<RealMadridVsBarcelonaTicketsPage />} />
+                    <Route path="/bayern-munich-vs-psg-tickets" element={<BayernMunichVsPSGTicketsPage />} />
+                    <Route path="/manchester-city-vs-real-madrid-tickets" element={<ManchesterCityVsRealMadridTicketsPage />} />
+                    <Route path="/champions-league-final-vip-tickets" element={<ChampionsLeagueFinalVIPTicketsPage />} />
+                    <Route path="/champions-league-final-hospitality-tickets" element={<ChampionsLeagueFinalHospitalityTicketsPage />} />
+                    <Route path="/champions-league-final-premium-tickets" element={<ChampionsLeagueFinalPremiumTicketsPage />} />
+                    <Route path="/champions-league-final-corporate-tickets" element={<ChampionsLeagueFinalCorporateTicketsPage />} />
+                    <Route path="/europa-league-group-stage-tickets" element={<EuropaLeagueGroupStageTicketsPage />} />
+                    <Route path="/europa-league-round-16-tickets" element={<EuropaLeagueRoundOf16TicketsPage />} />
+                    <Route path="/europa-league-quarter-final-tickets" element={<EuropaLeagueQuarterFinalTicketsPage />} />
+                    <Route path="/europa-league-semi-final-tickets" element={<EuropaLeagueSemiFinalTicketsPage />} />
+                    <Route path="/as-roma-vs-sevilla-tickets" element={<ASRomaVsSevillaTicketsPage />} />
+                    <Route path="/west-ham-vs-ajax-tickets" element={<WestHamVsAjaxTicketsPage />} />
+                    <Route path="/eintracht-frankfurt-vs-rangers-tickets" element={<EintrachtFrankfurtVsRangersTicketsPage />} />
+                    <Route path="/europa-league-final-vip-tickets" element={<EuropaLeagueFinalVIPTicketsPage />} />
+                    <Route path="/europa-league-final-hospitality-tickets" element={<EuropaLeagueFinalHospitalityTicketsPage />} />
+                    <Route path="/europa-league-final-premium-tickets" element={<EuropaLeagueFinalPremiumTicketsPage />} />
+                    <Route path="/real-madrid-vs-atletico-madrid-tickets" element={<RealMadridVsAtleticoMadridTicketsPage />} />
+                    <Route path="/barcelona-vs-atletico-madrid-tickets" element={<BarcelonaVsAtleticoMadridTicketsPage />} />
+                    <Route path="/sevilla-vs-real-betis-tickets" element={<SevillaVsRealBetisTicketsPage />} />
+                    <Route path="/athletic-bilbao-vs-real-sociedad-tickets" element={<AthleticBilbaoVsRealSociedadTicketsPage />} />
+                    <Route path="/valencia-vs-villarreal-tickets" element={<ValenciaVsVillarrealTicketsPage />} />
+                    <Route path="/la-liga-season-opener-tickets" element={<LaLigaSeasonOpenerTicketsPage />} />
+                    <Route path="/la-liga-final-day-tickets" element={<LaLigaFinalDayTicketsPage />} />
+                    <Route path="/la-liga-christmas-fixture-tickets" element={<LaLigaChristmasFixtureTicketsPage />} />
+                    <Route path="/la-liga-new-year-fixture-tickets" element={<LaLigaNewYearFixtureTicketsPage />} />
+                    <Route path="/camp-nou-tickets" element={<CampNouTicketsPage />} />
+                    <Route path="/santiago-bernabeu-tickets" element={<SantiagoBernabeuTicketsPage />} />
+                    <Route path="/old-trafford-tickets" element={<OldTraffordTicketsPage />} />
+                    <Route path="/anfield-tickets" element={<AnfieldTicketsPage />} />
+                    <Route path="/wembley-stadium-tickets" element={<WembleyStadiumTicketsPage />} />
+                    <Route path="/allianz-arena-tickets" element={<AllianzArenaTicketsPage />} />
+                    <Route path="/san-siro-tickets" element={<SanSiroTicketsPage />} />
+                    <Route path="/metlife-stadium-tickets" element={<MetLifeStadiumTicketsPage />} />
                     <Route path="/competition/:slug" element={<CompetitionPage />} />
                     <Route path="/team/:slug" element={<TeamPage />} />
                     <Route path="/venue/:slug" element={<VenuePage />} />
