@@ -21,6 +21,9 @@ import PremierLeagueTicketsPage from './pages/PremierLeagueTicketsPage';
 import ManchesterCityTicketsPage from './pages/ManchesterCityTicketsPage';
 import EtihadStadiumTicketsPage from './pages/EtihadStadiumTicketsPage';
 import ArgentinaBrazilTicketsPage from './pages/ArgentinaBrazilTicketsPage';
+import ChampionsLeagueTicketsPage from './pages/ChampionsLeagueTicketsPage';
+import EuropaLeagueTicketsPage from './pages/EuropaLeagueTicketsPage';
+import LaLigaTicketsPage from './pages/LaLigaTicketsPage';
 
 // Protected Route Component
 const ProtectedRoute: React.FC<{ children: React.ReactNode }> = ({ children }) => {
@@ -105,6 +108,9 @@ function App() {
                     <Route path="/manchester-city-tickets" element={<ManchesterCityTicketsPage />} />
                     <Route path="/etihad-stadium-tickets" element={<EtihadStadiumTicketsPage />} />
                     <Route path="/argentina-vs-brazil-tickets" element={<ArgentinaBrazilTicketsPage />} />
+                    <Route path="/champions-league-tickets" element={<ChampionsLeagueTicketsPage />} />
+                    <Route path="/europa-league-tickets" element={<EuropaLeagueTicketsPage />} />
+                    <Route path="/la-liga-tickets" element={<LaLigaTicketsPage />} />
                     
                     <Route path="/competition/:slug" element={<CompetitionPage />} />
                     <Route path="/team/:slug" element={<TeamPage />} />
@@ -123,6 +129,9 @@ function App() {
                     <Route path="/:lang/manchester-city-tickets" element={<ManchesterCityTicketsPage />} />
                     <Route path="/:lang/etihad-stadium-tickets" element={<EtihadStadiumTicketsPage />} />
                     <Route path="/:lang/argentina-vs-brazil-tickets" element={<ArgentinaBrazilTicketsPage />} />
+                    <Route path="/:lang/champions-league-tickets" element={<ChampionsLeagueTicketsPage />} />
+                    <Route path="/:lang/europa-league-tickets" element={<EuropaLeagueTicketsPage />} />
+                    <Route path="/:lang/la-liga-tickets" element={<LaLigaTicketsPage />} />
                     
                     <Route path="/:lang/competition/:slug" element={<CompetitionPage />} />
                     <Route path="/:lang/team/:slug" element={<TeamPage />} />
