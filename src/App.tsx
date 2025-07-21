@@ -1,5 +1,6 @@
 
 import React from 'react';
+import { Helmet } from 'react-helmet';
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import { LanguageProvider } from './contexts/LanguageContext';
 import { AuthProvider, useAuth } from './contexts/AuthContext';
@@ -432,6 +433,9 @@ const AppContent: React.FC = () => {
 function App() {
   return (
     <AuthProvider>
+      <Helmet>
+        <meta name="Impact-Site-Verification" content="54cf4814-9ddf-494e-b714-e437f49b74eb" />
+      </Helmet>
       <LanguageProvider>
         <Router>
           <Routes>

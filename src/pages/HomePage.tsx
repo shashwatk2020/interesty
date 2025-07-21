@@ -12,6 +12,7 @@ const HomePage: React.FC = () => {
 
   return (
     <div className="min-h-screen">
+      {/* Verification: This is a hidden text segment for internal use. */}
       <HeroSection />
       <CompetitionsSection />
       <TeamsSection />
