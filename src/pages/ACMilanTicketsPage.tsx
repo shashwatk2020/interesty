@@ -3,6 +3,7 @@ import React from 'react';
 import { Helmet } from 'react-helmet';
 import { Link } from 'react-router-dom';
 import { ArrowRight } from 'lucide-react';
+import TicketmasterTickets from '../components/TicketmasterTickets';
 
 const ACMilanTicketsPage: React.FC = () => {
   return (
@@ -67,14 +68,7 @@ const ACMilanTicketsPage: React.FC = () => {
             </ul>
           </div>
 
-          {/* Ticket Listings Placeholder */}
-          <div id="ticket-listings" className="border-t pt-8">
-            <h3 className="text-2xl font-bold text-gray-800 mb-6">Available Tickets for AC Milan Matches</h3>
-            <div className="text-center text-gray-500 border-2 border-dashed rounded-lg p-12">
-              <p className="mb-2">Ticket listings are not yet available.</p>
-              <p>Please check back closer to match dates for a full list of available tickets.</p>
-            </div>
-          </div>
+          <TicketmasterTickets entityName="AC Milan" entityType="team" />
 
           {/* Related Links */}
           <div className="mt-12 border-t pt-8">
